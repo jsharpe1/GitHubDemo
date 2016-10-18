@@ -23,7 +23,7 @@ public class Main {
 		}
 		{
 			Model m = new Model(new TextAnimatorBuilder(), 1, 1);
-			m.run(10);
+			m.run(11);
 			m.dispose();
 		}
 		{
